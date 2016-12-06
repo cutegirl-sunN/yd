@@ -1,0 +1,74 @@
+.ywbox{
+	width:1200px;
+	height:425px;
+	margin:0 auto;
+	/*border-left: 1px solid #000;
+	border-top:1px solid #000;
+	border-right:1px solid #000;*/
+}
+.ywboxtop{
+	width:1198px;
+	height:47px;
+	border:1px solid #000;
+	line-height: 47px;
+	text-align: left;
+	
+}
+.ywboxtop .recommend{
+	float:left;
+	color: #0085D0;
+	font-size: 15px;
+	font-weight: bold;
+	text-decoration: none;
+	margin-left: 25px;
+}
+.ywboxtop .readmore{
+	float:right;
+	color: #666666;
+	margin-right: 25px;
+	text-decoration: none;
+	font-size: 13px;
+}
+ul,li{
+	border: 0;
+	padding: 0;
+	margin: 0;
+}
+.ywboxbot{
+	height:378px;
+	width:1200px;
+}
+.ywboxbot-left{
+    width: 299px;
+    height: 188px;
+    border-bottom: 1px solid #000;
+    border-right: 1px solid #000;
+    float: left;
+    list-style: none;
+}
+.left-big{
+	width: 297px;
+    height: 377px;
+    border-left: 1px solid #000;
+    float: left;
+}
+.ywboxtop-left img{
+	float: right;
+}
+.ywboxtop-left img:hover{
+	margin-left: 5px;
+}
+.ywboxbot-left a{
+	text-decoration: none;	
+}
+.ywboxbot-left h1{
+	font-size: 18px;
+	font-weight: bold;
+	margin-left: 21px;
+	color:#333333;
+}
+.ywboxbot-left h2{
+	font-size: 14px;
+	margin-left: 21px;
+	color:#666666;
+}

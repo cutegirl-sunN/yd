@@ -1,0 +1,153 @@
+ul,li{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.bannav{
+	width:1200px;
+	height:350px;
+	margin-right: 10px;
+	/*background: red;*/
+	margin:0 auto;
+}
+.nav{
+	width: 158px;
+	height: 348px;
+	border: 1px solid #B8D9E9;
+	/*margin-top:5px;*/
+	float:left;
+}
+.nav .navleft{
+	width: 138px;
+	height: 62px;
+	margin: 0 auto;
+	border-bottom: 1px solid #dfdfdf;
+}
+.navleft1{
+	width: 138px;
+	height:32px;
+	border-bottom: 1px solid #dfdfdf;
+	margin:0 auto;
+}
+.nav a{
+	text-align: center;
+	line-height: 32px;
+	font-size: 12px;
+	text-decoration: none;
+	color:#333333;
+}
+.navleft a{
+	line-height: 62px;
+	font-size: 15px;
+}
+.navleft .leftBOT{
+	border-bottom: 0;
+}
+.navleft img{
+	width:20px;
+	float:left;
+}
+.banner{
+	width: 740px;
+	height: 350px;
+	border:1px solid red;
+	margin-left: 10px;
+	/*margin: 0 auto;*/
+	position: relative;
+	float:left;
+}
+.banner a{
+	display: block;
+}
+.banner a img{
+	width: 740px;
+	height: 350px;
+	text-align: center;
+	position: absolute;
+	top:0;
+	left:0;
+}
+.pic img{
+	z-index: 1;
+}
+.circle{
+	width:168px;
+	height:16px;
+	margin: 0 auto;
+	border: 1px solid red;
+	position: absolute;
+	bottom:8px;
+	left:294px;
+	z-index: 1;
+	padding: 0;
+	margin: 0;
+}
+.circle-li{
+	width:16px;
+	height:16px;
+	line-height: 16px;
+    border-radius: 50%;
+    float: left;
+    margin-left:5px;
+    background: #D3D2D0;
+    
+}
+.bannerleft{
+	width:20px;
+	height: 70px;
+	text-align: center;
+	line-height: 70px;
+	background:rgba(204,204,204,0.3);
+	color: #fff;
+	position: absolute;
+	z-index: 1;
+	top:140px;
+	left: 0;
+}
+.bannerright{
+	width:20px;
+	height: 70px;
+	text-align: center;
+	line-height: 70px;
+	background:rgba(204,204,204,0.3);
+	color: #fff;
+	position: absolute;
+	z-index: 1;
+	top:140px;
+	right:0;
+}
+.qixi{
+	width: 276px;
+	height: 347px;
+	border: 1px solid #dfdfdf;
+	float: right;
+}
+.qixitop{
+	width:276px;
+	height: 196px;
+	border-bottom: 1px solid red;
+}
+.qixitop-center{
+	width:236px;
+	height: 133px;
+	border:1px solid blue;
+	margin-top: 23px;
+	margin-left: 21px;
+}
+.hfcx{
+	width: 54px;
+	height: 68px;
+	border-bottom:1px solid red;
+	border-right: 1px solid red;
+	margin-right:43px;  
+	float:left;
+}
+.hfcx a{
+	text-decoration: none;
+	/*display: block;*/
+}
+.hfcx span{
+	font-size: 13px;
+	display: block;
+	color:#4E4E4E;
+}
